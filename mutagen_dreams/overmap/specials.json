@@ -10,7 +10,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [5, 10],
+        "city_distance" : [1, 10],
         "city_sizes" : [4, 16],
         "occurrences" : [0, 1],
         "rotate" : false
