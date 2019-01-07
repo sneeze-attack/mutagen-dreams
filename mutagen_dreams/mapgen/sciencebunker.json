@@ -144,7 +144,7 @@
       "place_nested": [
         {
           "chunks": [
-            [ "md_filltank_mutagen", 100 ],
+            [ "md_filltank_mutagen", 63 ],
             [ "md_filltank_mutagen_alpha", 1 ],
             [ "md_filltank_mutagen_beast", 2 ],
             [ "md_filltank_mutagen_bird", 2 ],
