@@ -177,7 +177,7 @@
     "nested_mapgen_id": "md_filltank_mutagen",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [10, 100], "x": 0, "y": 0, "liquid": "iv_mutagen" } ]
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen" } ]
     }
   },
   {
