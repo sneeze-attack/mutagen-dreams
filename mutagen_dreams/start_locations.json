@@ -82,5 +82,23 @@
     "ident": "medicalbunker",
     "name": "Medical Bunker",
     "target": "medicalbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "mousebunker",
+    "name": "Mouse Bunker",
+    "target": "mousebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "plantbunker",
+    "name": "Plant Bunker",
+    "target": "plantbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "raptorbunker",
+    "name": "Raptor Bunker",
+    "target": "raptorbunker"
   }
 ]

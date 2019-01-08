@@ -264,5 +264,62 @@
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "mousebunker",
+    "name": "Mouse bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "mousebunker_under",
+    "name": "Mouse bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "plantbunker",
+    "name": "Plant bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "plantbunker_under",
+    "name": "Plant bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "raptorbunker",
+    "name": "Raptor bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "raptorbunker_under",
+    "name": "Raptor bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
   }
 ]
