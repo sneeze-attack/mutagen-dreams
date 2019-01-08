@@ -62,5 +62,21 @@
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Cattle Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "cattlebunker"},
+            { "point":[0,0,-1], "overmap": "cattlebunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
     }
 ]

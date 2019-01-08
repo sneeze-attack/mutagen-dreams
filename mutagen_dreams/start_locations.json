@@ -22,5 +22,11 @@
     "ident": "birdbunker",
     "name": "Bird Bunker",
     "target": "birdbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "cattlebunker",
+    "name": "Cattle Bunker",
+    "target": "cattlebunker"
   }
 ]
