@@ -7,7 +7,18 @@
     "ident": "mdreams",
     "points": 2,
     "start_name": "Science Bunker",
-    "allowed_locs": [ "sciencebunker", "alphabunker", "beastbunker", "birdbunker", "cattlebunker", "cephalopodbunker", "chimerabunker", "elfabunker", "felinebunker" ],
+    "allowed_locs": [ 
+      "sciencebunker",
+      "alphabunker",
+      "beastbunker",
+      "birdbunker",
+      "cattlebunker",
+      "cephalopodbunker",
+      "chimerabunker",
+      "elfabunker",
+      "felinebunker",
+      "fishbunker"
+    ],
     "professions": [ "unemployed", "mutant_patient", "mutant_volunteer", "labtech", "burglar" ],
     "traits": [
       "ELFAEYES",

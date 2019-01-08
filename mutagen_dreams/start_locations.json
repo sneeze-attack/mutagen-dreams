@@ -52,5 +52,11 @@
     "ident": "felinebunker",
     "name": "Feline Bunker",
     "target": "felinebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "fishbunker",
+    "name": "Fish Bunker",
+    "target": "fishbunker"
   }
 ]
