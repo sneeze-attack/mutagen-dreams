@@ -24,7 +24,12 @@
       "medicalbunker",
       "mousebunker",
       "plantbunker",
-      "raptorbunker"
+      "raptorbunker",
+      "ratbunker",
+      "slimebunker",
+      "spiderbunker",
+      "troglobitebunker",
+      "ursinebunker"
     ],
     "professions": [ "unemployed", "mutant_patient", "mutant_volunteer", "labtech", "burglar" ],
     "traits": [

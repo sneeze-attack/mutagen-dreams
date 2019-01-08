@@ -100,5 +100,35 @@
     "ident": "raptorbunker",
     "name": "Raptor Bunker",
     "target": "raptorbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "ratbunker",
+    "name": "Rat Bunker",
+    "target": "ratbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "slimebunker",
+    "name": "Slime Bunker",
+    "target": "slimebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "spiderbunker",
+    "name": "Spider Bunker",
+    "target": "spiderbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "troglobitebunker",
+    "name": "Troglobite Bunker",
+    "target": "troglobitebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "ursinebunker",
+    "name": "Ursine Bunker",
+    "target": "ursinebunker"
   }
 ]

@@ -270,5 +270,85 @@
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Rat Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "ratbunker"},
+            { "point":[0,0,-1], "overmap": "ratbunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Slime Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "slimebunker"},
+            { "point":[0,0,-1], "overmap": "slimebunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Spider Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "spiderbunker"},
+            { "point":[0,0,-1], "overmap": "spiderbunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Troglobite Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "troglobitebunker"},
+            { "point":[0,0,-1], "overmap": "troglobite_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Ursine Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "ursinebunker"},
+            { "point":[0,0,-1], "overmap": "ursinebunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
     }
 ]

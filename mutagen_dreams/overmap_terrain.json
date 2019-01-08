@@ -321,5 +321,100 @@
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "ratbunker",
+    "name": "Rat bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "ratbunker_under",
+    "name": "Rat bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "slimebunker",
+    "name": "Slime bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "slimebunker_under",
+    "name": "Slime bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "spiderbunker",
+    "name": "Spider bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "spiderbunker_under",
+    "name": "Spider bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "troglobitebunker",
+    "name": "Troglobite bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "troglobitebunker_under",
+    "name": "Troglobite bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "ursinebunker",
+    "name": "Ursine bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "ursinebunker_under",
+    "name": "Ursine bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
   }
 ]
