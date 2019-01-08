@@ -28,5 +28,11 @@
     "ident": "cattlebunker",
     "name": "Cattle Bunker",
     "target": "cattlebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "cephalopodbunker",
+    "name": "Cephalopod Bunker",
+    "target": "cephalopodbunker"
   }
 ]
