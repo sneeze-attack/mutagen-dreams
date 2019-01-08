@@ -324,7 +324,7 @@
         "id" : "Troglobite Bunker",
         "overmaps" : [
             { "point":[0,0,0], "overmap": "troglobitebunker"},
-            { "point":[0,0,-1], "overmap": "troglobite_under"}
+            { "point":[0,0,-1], "overmap": "troglobitebunker_under"}
         ],
         "connections" : [
             { "point" : [0,1,0], "terrain" : "road" }
