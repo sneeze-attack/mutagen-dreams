@@ -17,7 +17,8 @@
       "chimerabunker",
       "elfabunker",
       "felinebunker",
-      "fishbunker"
+      "fishbunker",
+      "insectbunker"
     ],
     "professions": [ "unemployed", "mutant_patient", "mutant_volunteer", "labtech", "burglar" ],
     "traits": [
