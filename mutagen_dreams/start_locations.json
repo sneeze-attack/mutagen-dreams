@@ -40,5 +40,11 @@
     "ident": "chimerabunker",
     "name": "Chimera Bunker",
     "target": "chimerabunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "elfabunker",
+    "name": "Elf-A Bunker",
+    "target": "elfabunker"
   }
 ]

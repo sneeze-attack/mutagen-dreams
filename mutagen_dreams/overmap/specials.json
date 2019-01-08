@@ -110,5 +110,21 @@
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Elf-A Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "elfabunker"},
+            { "point":[0,0,-1], "overmap": "elfabunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
     }
 ]
