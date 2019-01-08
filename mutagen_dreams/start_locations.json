@@ -64,5 +64,23 @@
     "ident": "insectbunker",
     "name": "Insect Bunker",
     "target": "insectbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "lizardbunker",
+    "name": "Lizard Bunker",
+    "target": "lizardbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "lupinebunker",
+    "name": "Lupine Bunker",
+    "target": "lupinebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "medicalbunker",
+    "name": "Medical Bunker",
+    "target": "medicalbunker"
   }
 ]

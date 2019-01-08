@@ -18,7 +18,10 @@
       "elfabunker",
       "felinebunker",
       "fishbunker",
-      "insectbunker"
+      "insectbunker",
+      "lizardbunker",
+      "lupinebunker",
+      "medicalbunker"
     ],
     "professions": [ "unemployed", "mutant_patient", "mutant_volunteer", "labtech", "burglar" ],
     "traits": [

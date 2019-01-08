@@ -207,5 +207,62 @@
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lizardbunker",
+    "name": "Lizard bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lizardbunker_under",
+    "name": "Lizard bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lupinebunker",
+    "name": "Lupine bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lupinebunker_under",
+    "name": "Lupine bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "medicalbunker",
+    "name": "Medical bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "medicalbunker_under",
+    "name": "Medical bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
   }
 ]

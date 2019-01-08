@@ -174,5 +174,53 @@
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Lizard Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "lizardbunker"},
+            { "point":[0,0,-1], "overmap": "lizardbunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Lupine Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "lupinebunker"},
+            { "point":[0,0,-1], "overmap": "lupinebunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Medical Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "medicalbunker"},
+            { "point":[0,0,-1], "overmap": "medicalbunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
     }
 ]
