@@ -46,5 +46,11 @@
     "ident": "elfabunker",
     "name": "Elf-A Bunker",
     "target": "elfabunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "felinebunker",
+    "name": "Feline Bunker",
+    "target": "felinebunker"
   }
 ]
