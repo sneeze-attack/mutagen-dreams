@@ -4,5 +4,11 @@
     "ident": "sciencebunker",
     "name": "Science Bunker",
     "target": "sciencebunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "alphabunker",
+    "name": "Alpha Bunker",
+    "target": "alphabunker"
   }
 ]

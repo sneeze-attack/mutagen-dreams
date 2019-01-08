@@ -14,4 +14,21 @@
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
-    }]
+    },
+{
+        "type" : "overmap_special",
+        "id" : "Alpha Bunker",
+        "overmaps" : [
+            { "point":[0,0,0], "overmap": "alphabunker"},
+            { "point":[0,0,-1], "overmap": "alphabunker_under"}
+        ],
+        "connections" : [
+            { "point" : [0,1,0], "terrain" : "road" }
+        ],
+        "locations" : [ "field" ],
+        "city_distance" : [1, 16],
+        "city_sizes" : [0, 16],
+        "occurrences" : [0, 1],
+        "rotate" : false
+    }
+]
