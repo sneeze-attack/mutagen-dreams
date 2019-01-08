@@ -4,7 +4,7 @@
     "method": "json",
     "om_terrain": [ "sciencebunker" ],
     "//": "Above ground",
-    "weight": 100,
+    "weight": 1,
     "object": {
       "rows": [
         "                        ",
@@ -46,21 +46,21 @@
     "method": "json",
     "om_terrain": [ "sciencebunker_under" ],
     "//": "Below ground",
-    "weight": 100,
+    "weight": 1,
     "object": {
       "rows": [
         "########################",
         "########################",
         "##--------------------##",
-        "##|.VccgVcccccc|}..BB|##",
+        "##|cVccgVcccccc|}..BB|##",
         "##|..,.g....,..|}..BB|##",
-        "##|ggGgggggLggg|}....|##",
-        "##|.......6...,+.....|##",
-        "##|%====.......|...CD|##",
-        "##|.......v..v.------|##",
-        "##|ccccc.....,...|.bb|##",
-        "##|.,.....v..v...|.,S|##",
-        "##|ccccc.........+..t|##",
+        "##|ggGgggggLggg--|...|##",
+        "##|.......6...,..+...|##",
+        "##|%====.........|.CD|##",
+        "##|..........v.v.|---|##",
+        "##|ccccc..,......|.bb|##",
+        "##|.,........v.v.|.,S|##",
+        "##|ccccc......,..+..t|##",
         "##|--------++--------|##",
         "##|c.}}}}.|..|ccccccc|##",
         "##|c.,....|..|.......|##",
@@ -119,10 +119,14 @@
       "toilets": { "t": {  } },
       "place_items": [
         { "item": "tools_common", "x": [ 5, 6 ], "y": [ 15, 17 ], "chance": 90 },
-        { "item": "novels", "x": [ 16, 16 ], "y": [ 3, 5 ], "chance": 70 },
+        { "item": "surgery", "x": [ 3, 3 ], "y": [ 3, 3 ], "chance": 10 },
+        { "item": "novels", "x": [ 16, 16 ], "y": [ 3, 4 ], "chance": 70 },
         { "item": "office", "x": [ 20, 20 ], "y": [ 7, 7 ], "chance": 50 },
         { "item": "bed", "x": [ 19, 20 ], "y": [ 3, 4 ], "chance": 70 },
-        { "item": "cloning_vat", "x": [ 10, 10 ], "y": [ 10, 10 ], "chance": 100 }
+        { "item": "cloning_vat", "x": [ 15, 15 ], "y": [ 10, 10 ], "chance": 66 },
+        { "item": "cloning_vat", "x": [ 15, 15 ], "y": [ 8, 8 ], "chance": 66 },
+        { "item": "cloning_vat", "x": [ 13, 13 ], "y": [ 8, 8 ], "chance": 66 },
+        { "item": "cloning_vat", "x": [ 13, 13 ], "y": [ 10, 10 ], "chance": 66 }
       ],
       "place_loot": [
         { "group": "chem_lab", "x": [ 3, 7 ], "y": [ 11, 11 ], "chance": 50, "repeat": [ 4, 5 ] },

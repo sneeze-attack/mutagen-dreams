@@ -2,7 +2,7 @@
   {
     "type": "mapgen",
     "method": "json",
-    "om_terrain": [ "alphabunker" ],
+    "om_terrain": [ "beastbunker" ],
     "//": "Above ground",
     "weight": 1,
     "object": {
@@ -44,7 +44,7 @@
   {
     "type": "mapgen",
     "method": "json",
-    "om_terrain": [ "alphabunker_under" ],
+    "om_terrain": [ "beastbunker_under" ],
     "//": "Below ground",
     "weight": 1,
     "object": {
@@ -162,7 +162,7 @@
         }
       },
       "place_nested": [
-        { "chunks": [ [ "md_filltank_mutagen_alpha", 100 ] ], "x": 4, "y": 3 },
+        { "chunks": [ [ "md_filltank_mutagen_beast", 100 ] ], "x": 4, "y": 3 },
         { "chunks": [ [ "md_filltank_purifier", 100 ] ], "x": 8, "y": 3 }
       ]
     }
@@ -170,10 +170,10 @@
   {
     "type": "mapgen",
     "method": "json",
-    "nested_mapgen_id": "md_filltank_mutagen_alpha",
+    "nested_mapgen_id": "md_filltank_mutagen_beast",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [10, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_alpha" } ]
+      "place_liquids" : [ { "amount": [10, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_beast" } ]
     }
   },
   {

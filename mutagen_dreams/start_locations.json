@@ -10,5 +10,11 @@
     "ident": "alphabunker",
     "name": "Alpha Bunker",
     "target": "alphabunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "beastbunker",
+    "name": "Beast Bunker",
+    "target": "beastbunker"
   }
 ]
