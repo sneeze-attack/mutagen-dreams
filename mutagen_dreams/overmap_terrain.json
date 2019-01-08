@@ -112,5 +112,24 @@
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "chimerabunker",
+    "name": "Chimera bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
+    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "chimerabunker_under",
+    "name": "Chimera bunker",
+    "sym": 43,
+    "color": "red",
+    "see_cost": 2,
+    "flags": [ "KNOWN_UP", "NO_ROTATE" ]
   }
 ]

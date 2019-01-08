@@ -34,5 +34,11 @@
     "ident": "cephalopodbunker",
     "name": "Cephalopod Bunker",
     "target": "cephalopodbunker"
+  },
+  {
+    "type": "start_location",
+    "ident": "chimerabunker",
+    "name": "Chimera Bunker",
+    "target": "chimerabunker"
   }
 ]
