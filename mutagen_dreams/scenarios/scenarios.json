@@ -5,7 +5,7 @@
     "description": "The mutagen beckons, reject your humanity!",
     "flags": [ "LONE_START" ],
     "ident": "mdreams",
-    "points": 2,
+    "points": 4,
     "start_name": "Science Bunker",
     "allowed_locs": [ 
       "sciencebunker",
