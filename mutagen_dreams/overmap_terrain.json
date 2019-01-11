@@ -6,7 +6,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -25,7 +24,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -44,7 +42,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -63,7 +60,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -82,7 +78,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -101,7 +96,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -120,7 +114,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -139,7 +132,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -158,7 +150,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -177,7 +168,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -196,7 +186,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -215,7 +204,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -234,7 +222,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -253,7 +240,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -272,7 +258,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -291,7 +276,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -310,7 +294,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -329,7 +312,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -348,7 +330,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -367,7 +348,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -386,7 +366,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
@@ -405,7 +384,6 @@
     "sym": 43,
     "color": "red",
     "see_cost": 2,
-    "spawns": { "group": "GROUP_FOREST", "population": [ 0, 1 ], "chance": 13 },
     "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
