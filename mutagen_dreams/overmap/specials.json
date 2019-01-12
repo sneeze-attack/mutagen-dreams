@@ -10,7 +10,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -26,7 +26,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -42,7 +42,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -58,7 +58,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -74,7 +74,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -90,7 +90,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -106,7 +106,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -122,7 +122,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -138,7 +138,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -154,7 +154,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -170,7 +170,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -186,7 +186,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -202,7 +202,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -218,7 +218,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -234,7 +234,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -250,7 +250,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -266,7 +266,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -282,7 +282,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -298,7 +298,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -314,7 +314,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -330,7 +330,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
@@ -346,7 +346,7 @@
             { "point" : [0,1,0], "terrain" : "road" }
         ],
         "locations" : [ "field" ],
-        "city_distance" : [1, 16],
+        "city_distance" : [20, -1],
         "city_sizes" : [0, 16],
         "occurrences" : [0, 1],
         "rotate" : false
