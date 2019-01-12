@@ -85,6 +85,7 @@
       "place_loot": [
         { "group": "bed", "x": 20, "y": [ 3, 4 ], "chance": 70, "repeat": [ 1, 2 ] },
         { "group": "office", "x": 20, "y": 7, "chance": 50 },
+        { "item": "id_science", "x": 20, "y": 7, "chance": 100 },
         { "group": "tools_common", "x": [ 5, 6 ], "y": [ 15, 17 ], "chance": 90 },
         { "group": "novels", "x": 18, "y": [ 3, 4 ], "chance": 70, "repeat": [ 1, 2 ] },
         { "group": "chem_lab", "x": [ 12, 16 ], "y": 10, "chance": 60, "repeat": 5 },
