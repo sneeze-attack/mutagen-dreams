@@ -19,30 +19,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "alphabunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "alphabunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "beastbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -55,30 +37,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "birdbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "birdbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "cattlebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -91,30 +55,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "cephalopodbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "cephalopodbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "chimerabunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -127,30 +73,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "elfabunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "elfabunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "felinebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -163,30 +91,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "fishbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "fishbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "insectbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -199,30 +109,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "lizardbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "lizardbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "lupinebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -235,30 +127,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "medicalbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "medicalbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "mousebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -271,30 +145,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "plantbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "plantbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "raptorbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -307,30 +163,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "ratbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "ratbunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "slimebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",
@@ -343,15 +181,6 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "spiderbunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "spiderbunker_under",
     "name": "Science bunker",
     "sym": 43,
@@ -361,30 +190,12 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "troglobitebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
     "id": "troglobitebunker_under",
     "name": "Science bunker",
     "sym": 43,
     "color": "red",
     "see_cost": 2,
     "flags": [ "KNOWN_UP", "NO_ROTATE" ]
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "ursinebunker",
-    "name": "Science bunker",
-    "sym": 43,
-    "color": "red",
-    "see_cost": 2,
-    "flags": [ "KNOWN_DOWN", "NO_ROTATE" ]
   },
   {
     "type": "overmap_terrain",

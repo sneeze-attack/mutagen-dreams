@@ -19,7 +19,7 @@
         "type" : "overmap_special",
         "id" : "Alpha bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "alphabunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "alphabunker_under"}
         ],
         "connections" : [
@@ -35,7 +35,7 @@
         "type" : "overmap_special",
         "id" : "Beast bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "beastbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "beastbunker_under"}
         ],
         "connections" : [
@@ -51,7 +51,7 @@
         "type" : "overmap_special",
         "id" : "Bird bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "birdbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "birdbunker_under"}
         ],
         "connections" : [
@@ -67,7 +67,7 @@
         "type" : "overmap_special",
         "id" : "Cattle bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "cattlebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "cattlebunker_under"}
         ],
         "connections" : [
@@ -83,7 +83,7 @@
         "type" : "overmap_special",
         "id" : "Cephalopod bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "cephalopodbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "cephalopodbunker_under"}
         ],
         "connections" : [
@@ -99,7 +99,7 @@
         "type" : "overmap_special",
         "id" : "Chimera bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "chimerabunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "chimerabunker_under"}
         ],
         "connections" : [
@@ -115,7 +115,7 @@
         "type" : "overmap_special",
         "id" : "Elf-A bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "elfabunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "elfabunker_under"}
         ],
         "connections" : [
@@ -131,7 +131,7 @@
         "type" : "overmap_special",
         "id" : "Feline bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "felinebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "felinebunker_under"}
         ],
         "connections" : [
@@ -147,7 +147,7 @@
         "type" : "overmap_special",
         "id" : "Fish bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "fishbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "fishbunker_under"}
         ],
         "connections" : [
@@ -163,7 +163,7 @@
         "type" : "overmap_special",
         "id" : "Insect bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "insectbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "insectbunker_under"}
         ],
         "connections" : [
@@ -179,7 +179,7 @@
         "type" : "overmap_special",
         "id" : "Lizard bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "lizardbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "lizardbunker_under"}
         ],
         "connections" : [
@@ -195,7 +195,7 @@
         "type" : "overmap_special",
         "id" : "Lupine bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "lupinebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "lupinebunker_under"}
         ],
         "connections" : [
@@ -211,7 +211,7 @@
         "type" : "overmap_special",
         "id" : "Medical bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "medicalbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "medicalbunker_under"}
         ],
         "connections" : [
@@ -227,7 +227,7 @@
         "type" : "overmap_special",
         "id" : "Mouse bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "mousebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "mousebunker_under"}
         ],
         "connections" : [
@@ -243,7 +243,7 @@
         "type" : "overmap_special",
         "id" : "Plant bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "plantbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "plantbunker_under"}
         ],
         "connections" : [
@@ -259,7 +259,7 @@
         "type" : "overmap_special",
         "id" : "Raptor bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "raptorbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "raptorbunker_under"}
         ],
         "connections" : [
@@ -275,7 +275,7 @@
         "type" : "overmap_special",
         "id" : "Rat bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "ratbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "ratbunker_under"}
         ],
         "connections" : [
@@ -291,7 +291,7 @@
         "type" : "overmap_special",
         "id" : "Slime bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "slimebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "slimebunker_under"}
         ],
         "connections" : [
@@ -307,7 +307,7 @@
         "type" : "overmap_special",
         "id" : "Spider bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "spiderbunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "spiderbunker_under"}
         ],
         "connections" : [
@@ -323,7 +323,7 @@
         "type" : "overmap_special",
         "id" : "Troglobite bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "troglobitebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "troglobitebunker_under"}
         ],
         "connections" : [
@@ -339,7 +339,7 @@
         "type" : "overmap_special",
         "id" : "Ursine bunker",
         "overmaps" : [
-            { "point":[0,0,0], "overmap": "ursinebunker"},
+            { "point":[0,0,0], "overmap": "sciencebunker"},
             { "point":[0,0,-1], "overmap": "ursinebunker_under"}
         ],
         "connections" : [
