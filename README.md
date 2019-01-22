@@ -2,6 +2,8 @@
 Adds a new scenario to CDDA centered around mutagens
 
 # Installation
+*Requires LUA*
+
 Extract to Cataclysm-DDA/data/mods/mutagen-dreams
 
 Example of necessary structure: Cataclysm-DDA/data/mods/mutagen-dreams/mutagen_dreams/modinfo.json
