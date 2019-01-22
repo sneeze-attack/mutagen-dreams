@@ -33,134 +33,69 @@ end
 --Begin main
 local ps = player.start_location:str()
 
-if ps == "sciencebunker" then
-
-        Add_Mutagen_Map("iv_mutagen", 50, 12, 3)  
-
-end
-
 if ps == "alphabunker" then
+        Add_Mutagen_Map("iv_mutagen_alpha", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_alpha", 50, 12, 3)                
-        
-end
+elseif ps == "beastbunker" then
+        Add_Mutagen_Map("iv_mutagen_beast", 50, 12, 3)
 
-if ps == "beastbunker" then
+elseif ps == "birdbunker" then
+        Add_Mutagen_Map("iv_mutagen_bird", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_beast", 50, 12, 3)                
-        
-end
+elseif ps == "cattlebunker" then
+        Add_Mutagen_Map("iv_mutagen_cattle", 50, 12, 3)
 
-if ps == "birdbunker" then
+elseif ps == "cephalopodbunker" then
+        Add_Mutagen_Map("iv_mutagen_cephalopod", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_bird", 50, 12, 3)                
-        
-end
+elseif ps == "chimerabunker" then
+        Add_Mutagen_Map("iv_mutagen_chimera", 50, 12, 3)
 
-if ps == "cattlebunker" then
+elseif ps == "elfabunker" then
+        Add_Mutagen_Map("iv_mutagen_elfa", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_cattle", 50, 12, 3)                
-        
-end
+elseif ps == "felinebunker" then
+        Add_Mutagen_Map("iv_mutagen_feline", 50, 12, 3)
 
-if ps == "cephalopodbunker" then
+elseif ps == "fishbunker" then
+        Add_Mutagen_Map("iv_mutagen_fish", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_cephalopod", 50, 12, 3)                
-        
-end
+elseif ps == "insectbunker" then
+        Add_Mutagen_Map("iv_mutagen_insect", 50, 12, 3)
 
-if ps == "chimerabunker" then
+elseif ps == "lizardbunker" then
+        Add_Mutagen_Map("iv_mutagen_lizard", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_chimera", 50, 12, 3)                
-        
-end
+elseif ps == "lupinebunker" then
+        Add_Mutagen_Map("iv_mutagen_lupine", 50, 12, 3)
 
-if ps == "elfabunker" then
+elseif ps == "medicalbunker" then
+        Add_Mutagen_Map("iv_mutagen_medical", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_elfa", 50, 12, 3)                
-        
-end
+elseif ps == "mousebunker" then
+        Add_Mutagen_Map("iv_mutagen_mouse", 50, 12, 3)
 
-if ps == "felinebunker" then
+elseif ps == "plantbunker" then
+        Add_Mutagen_Map("iv_mutagen_plant", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_feline", 50, 12, 3)                
-        
-end
+elseif ps == "raptorbunker" then
+        Add_Mutagen_Map("iv_mutagen_raptor", 50, 12, 3)
 
-if ps == "fishbunker" then
+elseif ps == "ratbunker" then
+        Add_Mutagen_Map("iv_mutagen_rat", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_fish", 50, 12, 3)                
-        
-end
+elseif ps == "slimebunker" then
+        Add_Mutagen_Map("iv_mutagen_slime", 50, 12, 3)
 
-if ps == "insectbunker" then
+elseif ps == "spiderbunker" then
+        Add_Mutagen_Map("iv_mutagen_spider", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_insect", 50, 12, 3)                
-        
-end
+elseif ps == "troglobitebunker" then
+        Add_Mutagen_Map("iv_mutagen_troglobite", 50, 12, 3)
 
-if ps == "lizardbunker" then
+elseif ps == "ursinebunker" then
+        Add_Mutagen_Map("iv_mutagen_ursine", 50, 12, 3)
 
-        Add_Mutagen_Map("iv_mutagen_lizard", 50, 12, 3)                
-        
-end
-
-if ps == "lupinebunker" then
-
-        Add_Mutagen_Map("iv_mutagen_lupine", 50, 12, 3)                
-        
-end
-
-if ps == "medicalbunker" then
-
-        Add_Mutagen_Map("iv_mutagen_medical", 50, 12, 3)                
-        
-end
-
-if ps == "mousebunker" then
-
-        Add_Mutagen_Map("iv_mutagen_mouse", 50, 12, 3)                
-        
-end
-
-if ps == "plantbunker" then
-
-        Add_Mutagen_Map("iv_mutagen_plant", 50, 12, 3)                
-        
-end
-
-if ps == "raptorbunker" then
-
-        Add_Mutagen_Map("iv_mutagen_raptor", 50, 12, 3)                
-        
-end
-
-if ps == "ratbunker" then
-
-        Add_Mutagen_Map("iv_mutagen_rat", 50, 12, 3)                
-        
-end
-
-if ps == "slimebunker" then
-
-        Add_Mutagen_Map("iv_mutagen_slime", 50, 12, 3)                
-        
-end
-
-if ps == "spiderbunker" then
-
-        Add_Mutagen_Map("iv_mutagen_spider", 50, 12, 3)                
-        
-end
-
-if ps == "troglobitebunker" then
-
-        Add_Mutagen_Map("iv_mutagen_troglobite", 50, 12, 3)                
-        
-end
-
-if ps == "ursinebunker" then
-
-        Add_Mutagen_Map("iv_mutagen_ursine", 50, 12, 3)                
-        
+else
+        Add_Mutagen_Map("iv_mutagen", 50, 12, 3)
 end
