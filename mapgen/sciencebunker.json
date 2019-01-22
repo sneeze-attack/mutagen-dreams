@@ -170,7 +170,7 @@
           "failures": [ { "action": "damage" }, { "action": "shutdown" } ]
         }
       },
-      "lua": "dofile('./data/mods/mutagen-dreams/mutagen_dreams/lua/sciencebunker.lua')",
+      "lua": "dofile('./data/mods/mutagen-dreams/lua/sciencebunker.lua')",
       "place_nested": [
         { "chunks": [ [ "md_filltank_purifier", 100 ] ], "x": 4, "y": 3 }
       ]
