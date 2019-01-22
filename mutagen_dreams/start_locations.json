@@ -1,134 +1,134 @@
 [
   {
     "type": "start_location",
-    "ident": "sciencebunker_under",
+    "ident": "sciencebunker",
     "name": "Science bunker",
     "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "alphabunker_under",
+    "ident": "alphabunker",
     "name": "Alpha bunker",
-    "target": "alphabunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "beastbunker_under",
+    "ident": "beastbunker",
     "name": "Beast bunker",
-    "target": "beastbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "birdbunker_under",
+    "ident": "birdbunker",
     "name": "Bird bunker",
-    "target": "birdbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "cattlebunker_under",
+    "ident": "cattlebunker",
     "name": "Cattle bunker",
-    "target": "cattlebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "cephalopodbunker_under",
+    "ident": "cephalopodbunker",
     "name": "Cephalopod bunker",
-    "target": "cephalopodbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "chimerabunker_under",
+    "ident": "chimerabunker",
     "name": "Chimera bunker",
-    "target": "chimerabunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "elfabunker_under",
+    "ident": "elfabunker",
     "name": "Elf-A bunker",
-    "target": "elfabunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "felinebunker_under",
+    "ident": "felinebunker",
     "name": "Feline bunker",
-    "target": "felinebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "fishbunker_under",
+    "ident": "fishbunker",
     "name": "Fish bunker",
-    "target": "fishbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "insectbunker_under",
+    "ident": "insectbunker",
     "name": "Insect bunker",
-    "target": "insectbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "lizardbunker_under",
+    "ident": "lizardbunker",
     "name": "Lizard bunker",
-    "target": "lizardbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "lupinebunker_under",
+    "ident": "lupinebunker",
     "name": "Lupine bunker",
-    "target": "lupinebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "medicalbunker_under",
+    "ident": "medicalbunker",
     "name": "Medical bunker",
-    "target": "medicalbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "mousebunker_under",
+    "ident": "mousebunker",
     "name": "Mouse bunker",
-    "target": "mousebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "plantbunker_under",
+    "ident": "plantbunker",
     "name": "Plant bunker",
-    "target": "plantbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "raptorbunker_under",
+    "ident": "raptorbunker",
     "name": "Raptor bunker",
-    "target": "raptorbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "ratbunker_under",
+    "ident": "ratbunker",
     "name": "Rat bunker",
-    "target": "ratbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "slimebunker_under",
+    "ident": "slimebunker",
     "name": "Slime bunker",
-    "target": "slimebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "spiderbunker_under",
+    "ident": "spiderbunker",
     "name": "Spider bunker",
-    "target": "spiderbunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "troglobitebunker_under",
+    "ident": "troglobitebunker",
     "name": "Troglobite bunker",
-    "target": "troglobitebunker_under"
+    "target": "sciencebunker_under"
   },
   {
     "type": "start_location",
-    "ident": "ursinebunker_under",
+    "ident": "ursinebunker",
     "name": "Ursine bunker",
-    "target": "ursinebunker_under"
+    "target": "sciencebunker_under"
   }
 ]
