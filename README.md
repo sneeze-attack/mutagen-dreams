@@ -6,7 +6,17 @@ Adds a new scenario to CDDA centered around mutagens
 
 Extract to Cataclysm-DDA/data/mods/mutagen-dreams
 
-Example of necessary structure: Cataclysm-DDA/data/mods/mutagen-dreams/modinfo.json
+Example of necessary structure:
+
+Cataclysm-DDA/data/mods/mutagen-dreams/modinfo.json
+Cataclysm-DDA/data/mods/mutagen-dreams/overmap_terrain.json
+Cataclysm-DDA/data/mods/mutagen-dreams/README.md
+Cataclysm-DDA/data/mods/mutagen-dreams/start_locations.json
+Cataclysm-DDA/data/mods/mutagen-dreams/LUA/sciencebunker.lua
+Cataclysm-DDA/data/mods/mutagen-dreams/mapgen/sciencebunker.json
+Cataclysm-DDA/data/mods/mutagen-dreams/overmap/specials.json
+Cataclysm-DDA/data/mods/mutagen-dreams/scenarios/scenarios.json
+
 # Updating from previous version
 Remove previous mutagen-dreams folder if updating from v0.4 or earlier or issues will likely occur
 
