@@ -12,7 +12,7 @@ Example of necessary structure:
 * Cataclysm-DDA/data/mods/mutagen-dreams/overmap_terrain.json
 * Cataclysm-DDA/data/mods/mutagen-dreams/README.md
 * Cataclysm-DDA/data/mods/mutagen-dreams/start_locations.json
-* Cataclysm-DDA/data/mods/mutagen-dreams/LUA/sciencebunker.lua
+* Cataclysm-DDA/data/mods/mutagen-dreams/lua/sciencebunker.lua
 * Cataclysm-DDA/data/mods/mutagen-dreams/mapgen/sciencebunker.json
 * Cataclysm-DDA/data/mods/mutagen-dreams/overmap/specials.json
 * Cataclysm-DDA/data/mods/mutagen-dreams/scenarios/scenarios.json
