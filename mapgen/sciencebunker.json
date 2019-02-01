@@ -53,7 +53,7 @@
         "########################",
         "########################",
         "##--------------------##",
-        "##|cVcccc|cc.|?/c|}.B|##",
+        "##|cVcccc|ccV|?/c|}.B|##",
         "##|..,...|..,|.,.|}.B|##",
         "##|gLgggg|ggG|gLg|...|##",
         "##|6.........,7..|...|##",
@@ -170,10 +170,233 @@
           "failures": [ { "action": "damage" }, { "action": "shutdown" } ]
         }
       },
-      "lua": "dofile('./data/mods/mutagen-dreams/lua/sciencebunker.lua')",
       "place_nested": [
+        {
+          "chunks": [
+            [ "md_filltank_mutagen", 63 ],
+            [ "md_filltank_mutagen_alpha", 1 ],
+            [ "md_filltank_mutagen_beast", 2 ],
+            [ "md_filltank_mutagen_bird", 2 ],
+            [ "md_filltank_mutagen_cattle", 2 ],
+            [ "md_filltank_mutagen_cephalopod", 2 ],
+            [ "md_filltank_mutagen_chimera", 1 ],
+            [ "md_filltank_mutagen_elfa", 1 ],
+            [ "md_filltank_mutagen_feline", 2 ],
+            [ "md_filltank_mutagen_fish", 2 ],
+            [ "md_filltank_mutagen_insect", 2 ],
+            [ "md_filltank_mutagen_lizard", 2 ],
+            [ "md_filltank_mutagen_lupine", 2 ],
+            [ "md_filltank_mutagen_medical", 1 ],
+            [ "md_filltank_mutagen_mouse", 2 ],
+            [ "md_filltank_mutagen_plant", 2 ],
+            [ "md_filltank_mutagen_raptor", 1 ],
+            [ "md_filltank_mutagen_rat", 2 ],
+            [ "md_filltank_mutagen_slime", 2 ],
+            [ "md_filltank_mutagen_spider", 2 ],
+            [ "md_filltank_mutagen_troglobite", 2 ],
+            [ "md_filltank_mutagen_ursine", 2 ]
+          ], "x": 12, "y": 3
+        },
         { "chunks": [ [ "md_filltank_purifier", 100 ] ], "x": 4, "y": 3 }
       ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_alpha",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_alpha" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_beast",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_beast" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_bird",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_bird" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_cattle",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_cattle" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_cephalopod",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_cephalopod" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_chimera",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_chimera" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_elfa",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_elfa" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_feline",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_feline" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_fish",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_fish" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_insect",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_insect" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_lizard",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_lizard" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_lupine",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_lupine" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_medical",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_medical" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_mouse",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_mouse" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_plant",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_plant" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_raptor",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_raptor" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_rat",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_rat" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_spider",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_spider" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_slime",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_slime" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_troglobite",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_troglobite" } ]
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "nested_mapgen_id": "md_filltank_mutagen_ursine",
+    "object": {
+      "mapgensize": [ 1, 1 ],
+      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_ursine" } ]
     }
   },
   {

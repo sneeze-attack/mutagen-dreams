@@ -4,6 +4,7 @@
     "ident": "mutagen_dreams",
     "name": "Mutagen Dreams",
     "authors": [ "sneeze-attack" ],
+    "maintainers": [ "sneeze-attack" ],
     "description": "Adds new scenarios centered around mutagens.",
     "category": "rebalance",
     "dependencies": [ "dda" ]
