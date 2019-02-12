@@ -42,10 +42,12 @@
         "&": "t_chaingate_l",
         "W": "t_chainfence"
       },
-      "place_monster": [ { "monster": "mon_turret", "x": 9, "y": 14 } ],
-      "place_monster": [ { "monster": "mon_turret", "x": 14, "y": 14 } ],
-      "place_monster": [ { "monster": "mon_turret", "x": 9, "y": 9 } ],
-      "place_monster": [ { "monster": "mon_turret", "x": 14, "y": 9 } ]
+      "place_monster": [
+        { "monster": "mon_turret", "x": 9, "y": 14 },
+        { "monster": "mon_turret", "x": 14, "y": 14 },
+        { "monster": "mon_turret", "x": 9, "y": 9 },
+        { "monster": "mon_turret", "x": 14, "y": 9 }
+      ]
     }
   },
   {
