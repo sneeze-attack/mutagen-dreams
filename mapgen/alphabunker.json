@@ -16,9 +16,9 @@
         "##|6.........,7..|...|##",
         "##|....,.........+.CD|##",
         "##|..........cccc|---|##",
-        "##|rrrr..=.......|.bb|##",
-        "##|WWWR..=...cccc|.,S|##",
-        "##|WWWR..%....,..+..t|##",
+        "##|rrr.!.*.......|.bb|##",
+        "##|WWR.......cccc|.,S|##",
+        "##|WWR.%.=....,..+..t|##",
         "##|--------++--------|##",
         "##|c.}}}}.|..|ccccccc|##",
         "##|c.,....|..|.......|##",
@@ -59,10 +59,12 @@
         "V": "t_thconc_floor",
         "?": "t_thconc_floor",
         "/": "t_thconc_floor",
+        "!": "t_thconc_floor",
+        "*": "t_thconc_floor",
+        "%": "t_thconc_floor",
+        "=": "t_thconc_floor",
         "r": "t_railing_h",
         "R": "t_railing_v",
-        "=": "t_conveyor",
-        "%": "t_machinery_heavy",
         "W": "t_water_dp"
       },
       "furniture": {
@@ -79,7 +81,11 @@
         "O": "f_oven",
         "V": "f_standing_tank",
         "?": "f_autodoc",
-        "/": "f_autodoc_couch"
+        "/": "f_autodoc_couch",
+        "!": "f_ergometer",
+        "*": "f_treadmill",
+        "%": "f_locker",
+        "=": "f_exercise"
       },
       "toilets": { "t": {  } },
       "place_loot": [
