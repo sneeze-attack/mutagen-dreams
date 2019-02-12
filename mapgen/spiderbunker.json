@@ -77,7 +77,7 @@
         "b": "f_bathtub",
         "f": "f_fridge",
         "O": "f_oven",
-	"V": "f_standing_tank",
+        "V": "f_standing_tank",
         "?": "f_autodoc",
         "/": "f_autodoc_couch"
       },
@@ -130,7 +130,8 @@
       "place_nested": [
         { "chunks": [ [ "md_filltank_mutagen_spider", 100 ] ], "x": 12, "y": 3 },
         { "chunks": [ [ "md_filltank_purifier", 100 ] ], "x": 4, "y": 3 }
-      ]
+      ],
+      "place_fields": [ { "field": "fd_web", "x": [ 2, 21 ], "y": [ 2, 21 ], "repeat": 250 } ]
     }
   },
   {
@@ -139,16 +140,13 @@
     "nested_mapgen_id": "md_filltank_mutagen_spider",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_spider" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_spider" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_purifier",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [2, 10], "x": 0, "y": 0, "liquid": "iv_purifier" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 2, 10 ], "x": 0, "y": 0, "liquid": "iv_purifier" } ] }
   }
 ]

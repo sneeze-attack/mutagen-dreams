@@ -126,7 +126,7 @@
         "b": "f_bathtub",
         "f": "f_fridge",
         "O": "f_oven",
-	"V": "f_standing_tank",
+        "V": "f_standing_tank",
         "?": "f_autodoc",
         "/": "f_autodoc_couch"
       },
@@ -201,7 +201,9 @@
             [ "md_filltank_mutagen_spider", 2 ],
             [ "md_filltank_mutagen_troglobite", 2 ],
             [ "md_filltank_mutagen_ursine", 2 ]
-          ], "x": 12, "y": 3
+          ],
+          "x": 12,
+          "y": 3
         },
         { "chunks": [ [ "md_filltank_purifier", 100 ] ], "x": 4, "y": 3 }
       ]
@@ -211,37 +213,25 @@
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen" } ] }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_alpha",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_alpha" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_alpha" } ] }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_beast",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_beast" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_beast" } ] }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_bird",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_bird" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_bird" } ] }
   },
   {
     "type": "mapgen",
@@ -249,7 +239,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_cattle",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_cattle" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_cattle" } ]
     }
   },
   {
@@ -258,7 +248,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_cephalopod",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_cephalopod" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_cephalopod" } ]
     }
   },
   {
@@ -267,17 +257,14 @@
     "nested_mapgen_id": "md_filltank_mutagen_chimera",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_chimera" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_chimera" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_elfa",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_elfa" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_elfa" } ] }
   },
   {
     "type": "mapgen",
@@ -285,17 +272,14 @@
     "nested_mapgen_id": "md_filltank_mutagen_feline",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_feline" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_feline" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_fish",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_fish" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_fish" } ] }
   },
   {
     "type": "mapgen",
@@ -303,7 +287,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_insect",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_insect" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_insect" } ]
     }
   },
   {
@@ -312,7 +296,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_lizard",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_lizard" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_lizard" } ]
     }
   },
   {
@@ -321,7 +305,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_lupine",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_lupine" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_lupine" } ]
     }
   },
   {
@@ -330,26 +314,20 @@
     "nested_mapgen_id": "md_filltank_mutagen_medical",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_medical" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_medical" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_mouse",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_mouse" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_mouse" } ] }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_plant",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_plant" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_plant" } ] }
   },
   {
     "type": "mapgen",
@@ -357,17 +335,14 @@
     "nested_mapgen_id": "md_filltank_mutagen_raptor",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_raptor" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_raptor" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_rat",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_rat" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_rat" } ] }
   },
   {
     "type": "mapgen",
@@ -375,17 +350,14 @@
     "nested_mapgen_id": "md_filltank_mutagen_spider",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_spider" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_spider" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_mutagen_slime",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_slime" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_slime" } ] }
   },
   {
     "type": "mapgen",
@@ -393,7 +365,7 @@
     "nested_mapgen_id": "md_filltank_mutagen_troglobite",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_troglobite" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_troglobite" } ]
     }
   },
   {
@@ -402,16 +374,13 @@
     "nested_mapgen_id": "md_filltank_mutagen_ursine",
     "object": {
       "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [20, 100], "x": 0, "y": 0, "liquid": "iv_mutagen_ursine" } ]
+      "place_liquids": [ { "amount": [ 20, 100 ], "x": 0, "y": 0, "liquid": "iv_mutagen_ursine" } ]
     }
   },
   {
     "type": "mapgen",
     "method": "json",
     "nested_mapgen_id": "md_filltank_purifier",
-    "object": {
-      "mapgensize": [ 1, 1 ],
-      "place_liquids" : [ { "amount": [2, 10], "x": 0, "y": 0, "liquid": "iv_purifier" } ]
-    }
+    "object": { "mapgensize": [ 1, 1 ], "place_liquids": [ { "amount": [ 2, 10 ], "x": 0, "y": 0, "liquid": "iv_purifier" } ] }
   }
 ]

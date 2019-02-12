@@ -7,7 +7,7 @@
     "ident": "mdreams",
     "points": 4,
     "start_name": "Science Bunker",
-    "allowed_locs": [ 
+    "allowed_locs": [
       "sciencebunker_under",
       "alphabunker_under",
       "beastbunker_under",

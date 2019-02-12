@@ -1,207 +1,139 @@
 [
-{
-        "type" : "overmap_special",
-        "id" : "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "sciencebunker_under"}
-        ],
-        "connections" : [
-            { "point" : [0,1,0], "terrain" : "road" }
-        ],
-        "locations" : [ "land" ],
-        "city_distance" : [20, -1],
-        "city_sizes" : [0, 16],
-        "occurrences" : [0, 1],
-        "rotate" : false
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Alpha bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "alphabunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Beast bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "beastbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Bird bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "birdbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Cattle bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "cattlebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Cephalopod bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "cephalopodbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Chimera bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "chimerabunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Elf-A bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "elfabunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Feline bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "felinebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Fish bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "fishbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Insect bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "insectbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Lizard bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "lizardbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Lupine bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "lupinebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Medical bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "medicalbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Mouse bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "mousebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Plant bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "plantbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Raptor bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "raptorbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Rat bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "ratbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Slime bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "slimebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Spider bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "spiderbunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Troglobite bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "troglobitebunker_under"}
-        ]
-    },
-{
-        "type" : "overmap_special",
-        "id" : "Ursine bunker",
-        "copy-from": "Science bunker",
-        "overmaps" : [
-            { "point":[0,0,0], "overmap": "sciencebunker"},
-            { "point":[0,0,-1], "overmap": "ursinebunker_under"}
-        ]
-    }
+  {
+    "type": "overmap_special",
+    "id": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "sciencebunker_under" } ],
+    "connections": [ { "point": [ 0, 1, 0 ], "terrain": "road" } ],
+    "locations": [ "land" ],
+    "city_distance": [ 20, -1 ],
+    "city_sizes": [ 0, 16 ],
+    "occurrences": [ 0, 1 ],
+    "rotate": false
+  },
+  {
+    "type": "overmap_special",
+    "id": "Alpha bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "alphabunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Beast bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "beastbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Bird bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "birdbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Cattle bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "cattlebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Cephalopod bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "cephalopodbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Chimera bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "chimerabunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Elf-A bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "elfabunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Feline bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "felinebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Fish bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "fishbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Insect bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "insectbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Lizard bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "lizardbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Lupine bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "lupinebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Medical bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "medicalbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mouse bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "mousebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Plant bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "plantbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Raptor bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "raptorbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Rat bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "ratbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Slime bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "slimebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Spider bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "spiderbunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Troglobite bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "troglobitebunker_under" } ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Ursine bunker",
+    "copy-from": "Science bunker",
+    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "sciencebunker" }, { "point": [ 0, 0, -1 ], "overmap": "ursinebunker_under" } ]
+  }
 ]
