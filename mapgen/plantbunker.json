@@ -20,12 +20,12 @@
         "##|WWWR..=...cccc|.,S|##",
         "##|WWWR..%....,..+..t|##",
         "##|--------++--------|##",
-        "##|c.}}}}.|..|ccccccc|##",
-        "##|c.,....|..|.......|##",
-        "##|c.TT...|..|---+---|##",
-        "##|c.TTC..+.,+...,...|##",
-        "##|c.TT,..|..|---+---|##",
-        "##|c......|..|TT....f|##",
+        "##|c.}}}}.|..|cccccc^^##",
+        "##|c.,....|..|....d~^^##",
+        "##|c.TT...|..|---+-^^^##",
+        "##|c.TTC..+.,+...~~d^^##",
+        "##|c.TT,..|..|---+^^^^##",
+        "##|c......|..|TT...~f|##",
         "##|c......|..|TT.,c.O|##",
         "##|ccccccc|<<|C...c.S|##",
         "##--------------------##",
@@ -63,7 +63,10 @@
         "R": "t_railing_v",
         "=": "t_conveyor",
         "%": "t_machinery_heavy",
-        "W": "t_water_dp"
+        "W": "t_water_dp",
+        "^": "t_rock_floor",
+        "~": "t_rock_floor",
+        "d": "t_dirt"
       },
       "furniture": {
         "B": "f_bed",
@@ -79,7 +82,8 @@
         "O": "f_oven",
         "V": "f_standing_tank",
         "?": "f_autodoc",
-        "/": "f_autodoc_couch"
+        "/": "f_autodoc_couch",
+        "^": "f_rubble"
       },
       "toilets": { "t": {  } },
       "place_loot": [
@@ -103,7 +107,7 @@
         { "item": "syringe", "x": 11, "y": 3, "chance": 100 },
         { "group": "surgery", "x": [ 6, 8 ], "y": 3, "chance": 90, "repeat": 3 },
         { "group": "consumer_electronics", "x": [ 3, 9 ], "y": 20, "chance": 50, "repeat": [ 6, 7 ] },
-        { "group": "cannedfood", "x": [ 14, 20 ], "y": 13, "chance": 90, "repeat": 10 },
+        { "group": "cannedfood", "x": [ 14, 19 ], "y": 13, "chance": 90, "repeat": 10 },
         { "group": "kitchen", "x": [ 14, 15 ], "y": [ 18, 19 ], "chance": 60, "repeat": [ 1, 4 ] },
         { "group": "kitchen", "x": [ 18, 18 ], "y": [ 19, 20 ], "chance": 70, "repeat": [ 1, 2 ] },
         { "group": "drugs_analgesic", "x": 20, "y": 10, "chance": 70, "repeat": [ 1, 2 ] },
@@ -111,7 +115,8 @@
         { "group": "vending_drink_items", "x": 20, "y": 18, "chance": 90, "repeat": [ 5, 8 ] },
         { "group": "oven", "x": 20, "y": 19, "chance": 90 },
         { "group": "cleaning", "x": 20, "y": 20, "chance": 60 },
-        { "item": "anesthesia", "x": 16, "y": 3 }
+        { "item": "anesthesia", "x": 16, "y": 3 },
+        { "item": "glass_shard", "x": 17, "y": 16 }
       ],
       "computers": {
         "6": {
