@@ -26,7 +26,8 @@
       ["pretzels", 55],
       ["toastem", 10],
       ["toastem2", 10],
-      ["toastem3", 12]
+      ["toastem3", 12],
+      ["can_cheese", 70]
     ]
     },{
     "type" : "item_group",
@@ -47,5 +48,48 @@
       ["purple_drink", 45],
       ["hot_chocolate", 30]
     ]
-    }
+  },{
+    "type" : "item_group",
+    "id" : "meat_foods",
+    "items":[
+      ["sweet_sausage", 2],
+      ["bacon", 25],
+      ["dry_meat", 10],
+      ["dry_fish", 10],
+      ["fchicken", 25],
+      ["lunchmeat", 10],
+      ["bologna", 10],
+      ["nachosm", 10],
+      ["nachosmc", 2],
+      ["pizza_meat", 8],
+      ["cheeseburger", 8],
+      ["hamburger", 8],
+      ["fish_fried", 8],
+      ["fish_sandwich", 8],
+      ["sloppyjoe", 8],
+      ["hotdogs_frozen", 8],
+      ["corndogs_frozen", 8],
+      ["pork_beans", 40],
+      ["can_chicken", 40],
+      ["can_spam", 30],
+      ["can_sardine", 14],
+      ["can_tuna", 35],
+      ["can_salmon", 25],
+      ["can_chowder", 35],
+      ["can_herring", 30],
+      ["soup_meat", 15],
+      ["soup_chicken", 15],
+      ["curry_meat", 15],
+      ["curry_powder", 15],
+      ["ravioli", 25],
+      {"item": "meat_pickled", "prob":  4, "charges": 2, "container-item": "jar_glass_sealed"},
+      {"item": "fish_pickled", "prob":  6, "charges": 2, "container-item": "jar_glass_sealed"},
+      ["lutefisk", 1],
+      ["salted_fish", 15],
+      {"item": "meat_canned", "prob":  4, "charges": 12, "container-item": "jar_3l_glass_sealed"},
+      {"item": "fish_pickled", "prob":  4, "charges": 12, "container-item": "jar_3l_glass_sealed"},
+      {"item": "meat_pickled", "prob":  4, "charges": 12, "container-item": "jar_3l_glass_sealed"},
+      {"item": "fish_pickled", "prob":  4, "charges": 12, "container-item": "jar_3l_glass_sealed"}
+    ]
+  }
 ]

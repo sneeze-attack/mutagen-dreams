@@ -103,7 +103,7 @@
         { "item": "syringe", "x": 11, "y": 3, "chance": 100 },
         { "group": "surgery", "x": [ 6, 8 ], "y": 3, "chance": 90, "repeat": 3 },
         { "group": "consumer_electronics", "x": [ 3, 9 ], "y": 20, "chance": 50, "repeat": [ 6, 7 ] },
-        { "group": "cannedfood", "x": [ 14, 20 ], "y": 13, "chance": 90, "repeat": 10 },
+        { "group": "meat_foods", "x": [ 14, 20 ], "y": 13, "chance": 90, "repeat": 10 },
         { "group": "kitchen", "x": [ 14, 15 ], "y": [ 18, 19 ], "chance": 60, "repeat": [ 1, 4 ] },
         { "group": "kitchen", "x": [ 18, 18 ], "y": [ 19, 20 ], "chance": 70, "repeat": [ 1, 2 ] },
         { "group": "drugs_analgesic", "x": 20, "y": 10, "chance": 70, "repeat": [ 1, 2 ] },
