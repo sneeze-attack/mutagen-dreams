@@ -1,0 +1,51 @@
+[
+  {
+    "type" : "item_group",
+    "id" : "junk_food",
+    "items":[
+      ["candy", 60],
+      ["candy2", 60],
+      ["candy3", 60],
+      ["candycigarette", 10],
+      ["chips", 65],
+      ["chips2", 65],
+      ["chips3", 65],
+      ["choco_coffee_beans", 10],
+      ["chocolate", 50],
+      ["chocpretzels", 40],
+      ["cookies", 80],
+      ["maltballs", 50],
+      ["maple_candy", 10],
+      ["mintpatties", 80],
+      ["nachos", 50],
+      ["neccowafers", 50],
+      ["popcorn", 25],
+      ["popcorn2", 25],
+      ["porkstick", 55],
+      ["powder_candy", 40],
+      ["pretzels", 55],
+      ["toastem", 10],
+      ["toastem2", 10],
+      ["toastem3", 12]
+    ]
+    },{
+    "type" : "item_group",
+    "id" : "junk_drink",
+    "items":[
+      ["energy_drink", 55],
+      ["energy_drink_atomic", 4],
+      ["crispycran", 40],
+      ["choc_drink", 30],
+      { "item": "cola", "prob": 70, "container-item": "bottle_plastic" },
+      { "item": "rootbeer", "prob": 20, "container-item": "bottle_plastic" },
+      { "item": "creamsoda", "prob": 60, "container-item": "bottle_plastic" },
+      { "item": "lemonlime", "prob": 60, "container-item": "bottle_plastic" },
+      { "item": "orangesoda", "prob": 5, "container-item": "bottle_plastic" },
+      { "item": "con_milk", "prob": 5, "container-item": "bottle_plastic" },
+      { "item": "colamdew", "prob": 60, "container-item": "bottle_plastic" },
+      { "item": "rootbeer", "prob": 65, "container-item": "bottle_plastic" },
+      ["purple_drink", 45],
+      ["hot_chocolate", 30]
+    ]
+    }
+]
